@@ -48,7 +48,7 @@ focus:
   - React and TypeScript development
   - Generative AI integration
   - User-focused product design
-currently_building:
+What_I_Built:
   - DevMentor AI
   - Educlarity.AI
   - AI automation systems
