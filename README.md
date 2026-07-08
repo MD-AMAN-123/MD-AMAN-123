@@ -252,17 +252,6 @@ Developed a secure cloud data migration framework for confidential data transfer
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MD-AMAN-123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub profile trophies" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MD-AMAN-123&theme=tokyonight&hide_border=true" alt="GitHub streak statistics" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-AMAN-123&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-
-</div>
 
 <br/><br/>
 
