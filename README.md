@@ -268,18 +268,17 @@ Developed a secure cloud data migration framework for confidential data transfer
 
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
+ 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/MD-AMAN-123/MD-AMAN-123/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> To activate the snake animation, create a GitHub Actions workflow using the setup guide from:
-> https://github.com/Platane/snk
-
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MD-AMAN-123/MD-AMAN-123/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MD-AMAN-123/MD-AMAN-123/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MD-AMAN-123/MD-AMAN-123/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+ 
 
 <!-- ===================== CURRENTLY BUILDING ===================== -->
 
