@@ -251,8 +251,8 @@ Developed a secure cloud data migration framework for confidential data transfer
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MD-AMAN-123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="Muhammad Aman's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-AMAN-123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Most used languages" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MD-AMAN-123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Muhammad Aman's GitHub stats" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MD-AMAN-123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 
 <br/><br/>
 
