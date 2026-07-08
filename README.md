@@ -247,12 +247,22 @@ Developed a secure cloud data migration framework for confidential data transfer
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MD-AMAN-123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Muhammad Aman's GitHub stats" />
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MD-AMAN-123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=MD-AMAN-123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub profile trophies" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MD-AMAN-123&theme=tokyonight&hide_border=true" alt="GitHub streak statistics" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-AMAN-123&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+</div>
 
 <br/><br/>
 
