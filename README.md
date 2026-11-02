@@ -4,7 +4,7 @@
 
 # Muhammad Aman
 
-### AI-Focused Frontend Developer · React Builder · Hackathon Innovator
+### AI-Focused Fullstack Developer · React Builder · Hackathon Innovator
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=Building+AI-powered+digital+products.;React+%7C+TypeScript+%7C+Generative+AI.;Turning+complex+ideas+into+simple+experiences.;Open+to+internships%2C+collaborations%2C+and+hackathons." alt="Typing SVG" />
 
